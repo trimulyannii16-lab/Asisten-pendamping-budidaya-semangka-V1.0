@@ -1,0 +1,6 @@
+{
+  "name": "Asisten Semangka",
+  "description": "Asisten pendamping budidaya tanaman semangka cerdas berbasis AI untuk petani kakap dan pemula.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
